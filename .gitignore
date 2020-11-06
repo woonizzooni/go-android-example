@@ -8,6 +8,4 @@
 .cxx
 local.properties
 *.apk
-*.aar
-*.jar
 *.sum
